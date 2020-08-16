@@ -1,0 +1,2 @@
+# Packetty Ping Pong [![License](https://img.shields.io/github/license/Krymonota/packetty-pingpong.svg?style=flat-square)](https://github.com/Krymonota/packetty-pingpong/LICENSE.txt) 
+Packetty Ping Pong is a simple example project that demonstrates the use of [Packetty](https://github.com/Krymonota/packetty).
